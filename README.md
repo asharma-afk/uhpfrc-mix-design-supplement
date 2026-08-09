@@ -5,6 +5,6 @@ Supporting figures for:
 and Acceptability Criteria for UHPFRC**
 
 ## Contents
-- `Supplemental Materials.pdf` — compiled supplemental figures (S1-S6)
+- `Supplemental Materials.pdf` — compiled supplemental figures (S1-S4)
 ## Citation
 Please cite the main manuscript. A DOI will be added here once published.
